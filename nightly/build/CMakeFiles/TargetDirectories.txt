@@ -1,0 +1,3 @@
+/home/mkersey/plasmoids/systach/nightly/build/CMakeFiles/plasma_applet_systach.dir
+/home/mkersey/plasmoids/systach/nightly/build/CMakeFiles/plasma_applet_systach_automoc.dir
+/home/mkersey/plasmoids/systach/nightly/build/CMakeFiles/uninstall.dir
