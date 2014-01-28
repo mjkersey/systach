@@ -1,0 +1,9 @@
+Building from source requires the following:
+
+* KDE 4.2 or newer + dev packages
+* QT 4.7 or newer + dev packages
+* CMake 2.6 or newer
+* GNU Make
+* GCC
+
+If the above are installed, you can install and build using the scripts in the root of the project.

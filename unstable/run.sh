@@ -1,0 +1,1 @@
+plasmoidviewer --nosaveconfig systach
