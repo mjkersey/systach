@@ -88,7 +88,7 @@ Item {
       }
       
       Rectangle {
-	color: "#000"
+	//color: "#000"
 	opacity: 0.8
 	smooth: true
 	anchors {
@@ -106,8 +106,8 @@ Item {
 	      font.pixelSize: 14
 	      color: "#EEE"
 	  }
-	  width: childrenRect.width * 1.1
-	  height: childrenRect.height * 1.1
+	  //width: childrenRect.width * 1.1
+	  //height: childrenRect.height * 1.1
       }
     }
 }

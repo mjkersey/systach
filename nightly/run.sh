@@ -1,1 +1,1 @@
-plasmoidviewer --nosaveconfig systach
+plasma-windowed systach

@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+7684138f3fc2ddceafffe3972b241a97 CMakeFiles/plasma_applet_systach_automoc
+c5e25240ef83c75d8e019c1682a3f275 CMakeFiles/uninstall
+eecdfc2db4a5c2df6ca35a090cead0c2 ui_advancedSettings.h
+e0579567c181314525489517f7465086 ui_datasourceSettings.h
+94c4df96395c21daa64f05ac3c39319f ui_generalSettings.h

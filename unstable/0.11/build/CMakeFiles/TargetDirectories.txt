@@ -1,0 +1,3 @@
+/home/mjkersey/dev/systach/unstable/0.11/build/CMakeFiles/plasma_applet_systach.dir
+/home/mjkersey/dev/systach/unstable/0.11/build/CMakeFiles/plasma_applet_systach_automoc.dir
+/home/mjkersey/dev/systach/unstable/0.11/build/CMakeFiles/uninstall.dir
