@@ -8,9 +8,9 @@ Media
 
 Videos of SysTach can be found here:
 
-[Feature Overview](https://youtu.be/eLq7ZUDpTFQ)
-[Demo #1](https://youtu.be/oNwBRE1MG1Q)
-[Demo #2](https://youtu.be/Ebp64_89S5Q)
+[Feature Overview](https://youtu.be/eLq7ZUDpTFQ)  
+[Demo #1](https://youtu.be/oNwBRE1MG1Q)  
+[Demo #2](https://youtu.be/Ebp64_89S5Q)  
 
 Installation
 --------------
